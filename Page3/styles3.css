@@ -36,6 +36,7 @@ h1 {
     font-weight: 700;
     text-align: left;
     color: #725C5C;
+    cursor: pointer;
 }
 
 #rectangle-item-ativo {
